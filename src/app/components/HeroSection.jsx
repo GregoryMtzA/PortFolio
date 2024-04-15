@@ -68,8 +68,8 @@ const HeroSection = () => {
                         <Image
                             src={"/images/imagen_personal.jpg"}
                             alt={""}
-                            width={400}
-                            height={400}
+                            width={350}
+                            height={350}
                             className={"absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 animate-wiggle"}
                         >
                         </Image>
